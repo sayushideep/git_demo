@@ -5,5 +5,5 @@ counting
 2 2.5
 3
 4
-5 6
+5 6 7
 Change on test branch
